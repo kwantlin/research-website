@@ -49,7 +49,7 @@ academia:
         # other_info: 'graduated without first class honor, supervised by Prof. Very Cool!'
 ---
 
-**I** am a 2nd year Master's student at Princeton University in Computer Science, advised by [Prof. Ryan Adams][1] and [Prof. Naomi Leonard.][2] I am also a Visiting Postgraduate Research Fellow at the Harvard Medical AI Lab, advised by [Prof. Pranav Rajpurkar.][3] Previously, I received my A.B in Computer Science with a secondary in Economics and Chinese Language Citation from Harvard University, where my thesis was advised by [Prof. David Parkes.][4]
+**I** am a 2nd year Master's student in Computer Science at Princeton University, advised by [Prof. Ryan Adams][1] and [Prof. Naomi Leonard.][2] I am also a Visiting Postgraduate Research Fellow at the Harvard Medical AI Lab, advised by [Prof. Pranav Rajpurkar.][3] Previously, I received my A.B in Computer Science with a secondary in Economics and Chinese Language Citation from Harvard University, where my thesis was advised by [Prof. David Parkes.][4]
 
 My research interests center around the design of algorithms for machine learning and multi-agent systems that are flexible, robust, and generalizable, with applications in engineering, natural sciences, and the arts. 
 
