@@ -1,35 +1,15 @@
-baseURL = "https://kathrynwantlin.com/"
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
-# set your your own ga token here.
-googleAnalytics = "UA/G-123123-12"
+description = "A minimal, simple, and responsive academic page."
+features = ["Academic", "Responsive", "Clean And Minimal", "Social Media Links"]
+homepage = "https://github.com/hadisinaee/avicenna"
+license = "MIT"
+licenselink = "https://github.com/hadisinaee/avicenna/blob/master/LICENSE"
+min_version = "0.41"
+name = "Avicenna"
+tags = ["academic", "personal", "minimal", "minimalist", "clean", "responsive", "simple", "university"]
 
-languageCode = "en-us"
-
-# for using avicenna you need to set the themes to 'avicenna'
-enableEmoji = true
-theme = "avicenna"
-
-# This is your page title, it appears in your tab
-title = "Kathryn Wantlin"
-
-# number of posts to show on the blog page
-paginate = 10
-
-[build]
-publish = "public"
-command = "hugo"
-
-[context.production.environment]
-HUGO_VERSION = "0.51"
-HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
-
-[markup]
-[markup.tableOfContents]
-endLevel = 3
-ordered = false
-startLevel = 1
-
-[params]
-# it is used for the copy-right section of your page
-name = "Kathryn Wantlin"
+[author]
+homepage = "https://kathrynwantlin.com/"
+name = "Hadi Sinaee"
