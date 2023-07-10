@@ -6,7 +6,7 @@ headless: true
 
 full_name: "Kathryn Wantlin"
 profile_picture: "prof-square.jpeg"
-# cv: "cv.pdf"
+cv: "cv.pdf"
 # set to false if you don't want to show your blog
 blog: false
 
@@ -25,7 +25,7 @@ interests:
 
 affiliations:
     - affiliation:
-        title: "M.S.E."
+        title: "Ph.D."
         name: "Princeton University"
         email: "kw2960@princeton.edu"
     # - affiliation:
@@ -35,7 +35,13 @@ affiliations:
 
 academia:
     - course:
-        degree: "M.S.E"
+        degree: "Ph.D.
+        institution:  "Princeton University"
+        major: "Computer Science"
+        start_date: "2023"
+        end_date: '2028'
+    - course:
+        degree: "M.S.E."
         institution:  "Princeton University"
         major: "Computer Science"
         start_date: "2021"
@@ -49,9 +55,9 @@ academia:
         # other_info: 'graduated without first class honor, supervised by Prof. Very Cool!'
 ---
 
-**I** am a 2nd year Master's student in Computer Science at Princeton University, advised by [Prof. Ryan Adams][1] and [Prof. Naomi Leonard.][2] I am also a Visiting Postgraduate Research Fellow at the Harvard Medical AI Lab, advised by [Prof. Pranav Rajpurkar.][3] Previously, I received my A.B in Computer Science with a secondary in Economics and Chinese Language Citation from Harvard University, where my thesis was advised by [Prof. David Parkes.][4]
+**I** am a 1st year Ph.D. student in Computer Science at Princeton University, advised by [Prof. Ryan Adams.][1] I also collaborate with [Prof. Naomi Leonard][2] at Princeton and [Prof. Pranav Rajpurkar][3] at Harvard Medical School. Previously, I received my M.S.E. in Computer Science from Princeton University and my A.B in Computer Science (Economics Secondary) from Harvard University, where my thesis was advised by [Prof. David Parkes.][4]
 
-My research interests center around the design of algorithms for machine learning and multi-agent systems that are flexible, robust, and generalizable, with applications in engineering, natural sciences, and the arts. 
+My research interests center around the design of algorithms for machine learning and multi-agent systems that are flexible, robust, and generalizable, with applications in engineering, natural sciences, and the arts. Recently, I'm particularly interested in decentralized morphogenesis and the joint evolution of control and morphology in nature and reproducing these properties in engineered systems.
 
 [1]: https://www.cs.princeton.edu/~rpa/
 [2]: https://naomi.princeton.edu/
