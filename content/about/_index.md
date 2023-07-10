@@ -35,7 +35,7 @@ affiliations:
 
 academia:
     - course:
-        degree: "Ph.D.
+        degree: "Ph.D."
         institution:  "Princeton University"
         major: "Computer Science"
         start_date: "2023"
