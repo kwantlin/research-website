@@ -49,13 +49,13 @@ academia:
     - course:
         degree: "A.B."
         institution: 'Harvard University'
-        major: "Computer Science"
+        major: "Computer Science (Economics Secondary)"
         start_date: '2017'
         end_date: '2021'
         # other_info: 'graduated without first class honor, supervised by Prof. Very Cool!'
 ---
 
-**I** am a 1st year Ph.D. student in Computer Science at Princeton University, advised by [Prof. Ryan Adams.][1] I also collaborate with [Prof. Naomi Leonard][2] at Princeton and [Prof. Pranav Rajpurkar][3] at Harvard Medical School. Previously, I received my M.S.E. in Computer Science from Princeton University and my A.B in Computer Science (Economics Secondary) from Harvard University, where my thesis was advised by [Prof. David Parkes.][4]
+**I** am a 1st year Ph.D. student in Computer Science at Princeton University, advised by [Prof. Ryan Adams.][1] I also collaborate with [Prof. Naomi Leonard][2] at Princeton and [Prof. Pranav Rajpurkar][3] at Harvard Medical School. Previously, I received my M.S.E. from Princeton University and my A.B from Harvard University, where my thesis was advised by [Prof. David Parkes.][4]
 
 My research interests center around the design of algorithms for machine learning and multi-agent systems that are flexible, robust, and generalizable, with applications in engineering, natural sciences, and the arts. Recently, I'm particularly interested in decentralized morphogenesis and the joint evolution of control and morphology in nature and reproducing these properties in engineered systems.
 
