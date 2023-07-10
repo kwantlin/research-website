@@ -15,6 +15,15 @@ title = "Kathryn Wantlin"
 # number of posts to show on the blog page
 paginate = 10
 
+[build]
+publish = "public"
+command = "hugo"
+
+[context.production.environment]
+HUGO_VERSION = "0.51"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
 [markup]
 [markup.tableOfContents]
 endLevel = 3
