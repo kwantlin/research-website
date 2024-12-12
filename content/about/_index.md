@@ -55,11 +55,12 @@ academia:
         # other_info: 'graduated without first class honor, supervised by Prof. Very Cool!'
 ---
 
-**I** am a 1st year Ph.D. student in Computer Science at Princeton University, advised by [Prof. Ryan Adams.][1] I also collaborate with [Prof. Naomi Leonard][2] at Princeton and [Prof. Pranav Rajpurkar][3] at Harvard Medical School. Previously, I received my M.S.E. from Princeton University and my A.B from Harvard University, where my thesis was advised by [Prof. David Parkes.][4]
+**I** am a 2nd year Ph.D. student in Computer Science at Princeton University, advised by [Prof. Ryan Adams.][1] I also collaborate with [Prof. Ben Eysenbach][5] and [Prof. Naomi Leonard][2] at Princeton and [Prof. Pranav Rajpurkar][3] at Harvard Medical School. Previously, I received my M.S.E. from Princeton University and my A.B from Harvard University, where my thesis was advised by [Prof. David Parkes.][4]
 
-My research interests center around the design of algorithms for machine learning and multi-agent systems that are flexible, robust, and generalizable, with applications in engineering, natural sciences, and the arts. Recently, I've been thinking about decentralized morphogenesis and the joint evolution of control and morphology in nature and reproducing these properties in engineered systems.
+My research interests center around human-robot interaction and data-efficient, generalizable reinforcement learning. Recently, I've been working on multi-task meta IRL goal inference using contrastive RL pretraining and learning disentangled, causal world models for efficient RL and compositional learning. 
 
 [1]: https://www.cs.princeton.edu/~rpa/
 [2]: https://naomi.princeton.edu/
 [3]: https://www.rajpurkarlab.hms.harvard.edu/
 [4]: https://parkes.seas.harvard.edu/
+[5]: https://ben-eysenbach.github.io/
