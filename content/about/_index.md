@@ -20,8 +20,8 @@ socials:
 
 interests:
     - Self-Supervised Learning
-    - Multi-Agent Systems
-    - Engineering+Arts
+    - Robotic Assembly and Puzzle Solving
+    - Causal Representation Learning
 
 affiliations:
     - affiliation:
