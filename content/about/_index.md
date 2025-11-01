@@ -20,7 +20,7 @@ socials:
 
 interests:
     - Self-Supervised Learning
-    - Robotic Assembly and Puzzle Solving
+    - Robotic Assembly
     - Causal Representation Learning
 
 affiliations:
