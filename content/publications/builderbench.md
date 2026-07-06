@@ -10,7 +10,7 @@ authors:
 - Benjamin Eysenbach
 date: "2026-06-06"
 
-publication: "ArXiv Preprint"
+publication: "Reinforcement Learning Conference (RLC), RLBrew"
 
 links:
     pdf: https://arxiv.org/pdf/2510.06288
