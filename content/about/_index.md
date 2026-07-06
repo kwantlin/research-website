@@ -21,7 +21,7 @@ socials:
 interests:
     - Self-Supervised Learning
     - Robotic Assembly
-    - Causal Representation Learning
+    - ARMs & Diffusion Models
 
 affiliations:
     - affiliation:
@@ -55,12 +55,11 @@ academia:
         # other_info: 'graduated without first class honor, supervised by Prof. Very Cool!'
 ---
 
-**I** am a 2nd year Ph.D. student in Computer Science at Princeton University, advised by [Prof. Ryan Adams.][1] I also collaborate with [Prof. Ben Eysenbach][5] and [Prof. Naomi Leonard][2] at Princeton and [Prof. Pranav Rajpurkar][3] at Harvard Medical School. Previously, I received my M.S.E. from Princeton University and my A.B from Harvard University, where my thesis was advised by [Prof. David Parkes.][4]
+**I** am a 3rd year Ph.D. student in Computer Science at Princeton University, advised by [Prof. Ryan Adams.][1] I also collaborate with [Prof. Ben Eysenbach][4] and [Prof. Naomi Leonard][2] at Princeton. Previously, I received my M.S.E. from Princeton University and my A.B from Harvard University, where my thesis was advised by [Prof. David Parkes.][3]
 
-My research interests center around human-robot interaction and data-efficient, generalizable reinforcement learning. Recently, I've been working on (1) multi-task meta-IRL goal inference using contrastive RL pretraining and (2) learning disentangled, causal world models for efficient RL and compositional learning. 
+My research interests center around learning efficient & expressive representations for exploration and combinatorial reasoning with RL and LLMs. Recently, I've been working on (1) multi-task meta-IRL goal inference using contrastive RL pretraining and (2) learned-order autoregressive models for puzzle solving. 
 
 [1]: https://www.cs.princeton.edu/~rpa/
 [2]: https://naomi.princeton.edu/
-[3]: https://www.rajpurkarlab.hms.harvard.edu/
-[4]: https://parkes.seas.harvard.edu/
-[5]: https://ben-eysenbach.github.io/
+[3]: https://parkes.seas.harvard.edu/
+[4]: https://ben-eysenbach.github.io/
