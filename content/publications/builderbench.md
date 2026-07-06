@@ -1,6 +1,5 @@
 ---
-title: "BuilderBench: The Building Blocks of
-Intelligent Agents"
+title: "BuilderBench: The Building Blocks of Intelligent Agents"
 authors:
 - Raj Ghugare
 - Roger Creus Castanyer
